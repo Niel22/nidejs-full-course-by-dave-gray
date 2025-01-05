@@ -1,0 +1,3 @@
+2025-01-05	12:50:13	a28ef353-82d7-4808-8730-92a627da2fea	Log event emitted
+2025-01-05	12:50:24	6aed6785-b7ec-488b-bf0b-dad2a9fd14b7	Log event emitted
+2025-01-05	12:54:48	2cd4d28e-4ef6-4298-8e5f-7cf9e9f05754	I think we have a problem here
